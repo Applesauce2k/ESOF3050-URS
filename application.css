@@ -1,0 +1,19 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.login_background {
+	-fx-background-image: url('background.jpg');
+}
+	
+.label-background {
+	-fx-background-color: white;
+	-fx-background-radius: 10 10 10 10;
+}
+
+.label-background-full {
+	-fx-background-color: white;
+	-fx-background-radius: 2 2 2 2;
+}
+
+.access_background {
+	-fx-background-image: url('plainbackground.jpg');
+}
